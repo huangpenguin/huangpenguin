@@ -8,15 +8,14 @@ Welcome to my repository guide: explore projects, development templates, and lea
 
 ## 分类导航 / Repository Guide
 
-- [机器人与具身智能 / Robotics & Embodied AI](#robotics)
-- [AI 与数据科学 / AI & Data Science](#ai-data)
-- [开发工具与 Web / Developer Tools & Web](#dev-web)
-- [量化与数据采集 / Quant & Data Collection](#quant-data)
-- [知识与写作 / Knowledge & Writing](#knowledge)
-- [课程作业与纪念 / Coursework & Archives](#coursework)
-- [Fork 学习资源 / Forked Learning Resources](#forks)
+- [机器人与具身智能 / Robotics & Embodied AI](#机器人与具身智能--robotics--embodied-ai)
+- [AI 与数据科学 / AI & Data Science](#ai-与数据科学--ai--data-science)
+- [开发工具与 Web / Developer Tools & Web](#开发工具与-web--developer-tools--web)
+- [量化与数据采集 / Quant & Data Collection](#量化与数据采集--quant--data-collection)
+- [知识与写作 / Knowledge & Writing](#知识与写作--knowledge--writing)
+- [课程作业与纪念 / Coursework & Archives](#课程作业与纪念--coursework--archives)
+- [Fork 学习资源 / Forked Learning Resources](#fork-学习资源--forked-learning-resources)
 
-<a name="robotics"></a>
 ## 机器人与具身智能 / Robotics & Embodied AI
 
 | 仓库 / Repository | 简介 / Description |
@@ -25,7 +24,6 @@ Welcome to my repository guide: explore projects, development templates, and lea
 | [AIROA-contest-libero-plus](https://github.com/huangpenguin/AIROA-contest-libero-plus) | AIROA / PARC 2026 预选与复赛的历史参考，保留实验总结与技术文档。<br>Historical reference for the AIROA / PARC 2026 preliminary stages, with experiment summaries and technical documentation. |
 | [HandWorkTrack](https://github.com/huangpenguin/HandWorkTrack) | 人类工作动作采集项目。<br>A project for capturing human work movements. |
 
-<a name="ai-data"></a>
 ## AI 与数据科学 / AI & Data Science
 
 | 仓库 / Repository | 简介 / Description |
@@ -35,7 +33,6 @@ Welcome to my repository guide: explore projects, development templates, and lea
 | [pytorch_template](https://github.com/huangpenguin/pytorch_template) | 包含训练、评估与实验记录的 PyTorch 项目模板。<br>A PyTorch project template for training, evaluation, and experiment tracking. |
 | [Kaggle_template](https://github.com/huangpenguin/Kaggle_template) | Kaggle 表格数据任务模板。<br>A template for Kaggle tabular data tasks. |
 
-<a name="dev-web"></a>
 ## 开发工具与 Web / Developer Tools & Web
 
 | 仓库 / Repository | 简介 / Description |
@@ -44,7 +41,6 @@ Welcome to my repository guide: explore projects, development templates, and lea
 | [saas-aam-web-hrs](https://github.com/huangpenguin/saas-aam-web-hrs) | 基于 Vue 3、TypeScript 与 Vite 的 HRS 前端项目。<br>An HRS frontend built with Vue 3, TypeScript, and Vite. |
 | [vue-vite-ts-starter](https://github.com/huangpenguin/vue-vite-ts-starter) | 集成国际化、ESLint 与 Prettier 的 Vue 项目起步模板。<br>A Vue starter with internationalization, ESLint, and Prettier. |
 
-<a name="quant-data"></a>
 ## 量化与数据采集 / Quant & Data Collection
 
 | 仓库 / Repository | 简介 / Description |
@@ -52,7 +48,6 @@ Welcome to my repository guide: explore projects, development templates, and lea
 | [moomoo-api-dev](https://github.com/huangpenguin/moomoo-api-dev) | 基于 moomoo OpenAPI 的本机个人量化工作台，支持行情缓存与回测研究。<br>A local personal quant workbench built on moomoo OpenAPI for market data caching and backtesting research. |
 | [Guba_spyder](https://github.com/huangpenguin/Guba_spyder) | 基于 Selenium 的股吧帖子与评论采集工具。<br>A Selenium-based collector for Guba posts and comments. |
 
-<a name="knowledge"></a>
 ## 知识与写作 / Knowledge & Writing
 
 | 仓库 / Repository | 简介 / Description |
@@ -60,7 +55,6 @@ Welcome to my repository guide: explore projects, development templates, and lea
 | [personal-blog](https://github.com/huangpenguin/personal-blog) | 基于 Astro 与 Fuwari 的个人博客。<br>A personal blog powered by Astro and Fuwari. |
 | [my-obsidian-vault](https://github.com/huangpenguin/my-obsidian-vault) | Obsidian 笔记仓库。<br>An Obsidian notes repository. |
 
-<a name="coursework"></a>
 ## 课程作业与纪念 / Coursework & Archives
 
 课程记录与早期编程练习，保留学习过程中的足迹。  
@@ -73,7 +67,6 @@ Course notes and early programming exercises, preserved as milestones in my lear
 | [Tank](https://github.com/huangpenguin/Tank) | 通识课程作业纪念。<br>A preserved assignment from a general education course. |
 | [CppCalculator](https://github.com/huangpenguin/CppCalculator) | C++ 命令行计算器练习。<br>An early C++ command-line calculator exercise. |
 
-<a name="forks"></a>
 ## Fork 学习资源 / Forked Learning Resources
 
 <details>
