@@ -8,13 +8,13 @@ Welcome to my repository guide: explore projects, development templates, and lea
 
 ## 分类导航 / Repository Guide
 
-- [机器人与具身智能 / Robotics & Embodied AI](#机器人与具身智能--robotics--embodied-ai)
-- [AI 与数据科学 / AI & Data Science](#ai-与数据科学--ai--data-science)
-- [开发工具与 Web / Developer Tools & Web](#开发工具与-web--developer-tools--web)
-- [量化与数据采集 / Quant & Data Collection](#量化与数据采集--quant--data-collection)
-- [知识与写作 / Knowledge & Writing](#知识与写作--knowledge--writing)
-- [课程作业与纪念 / Coursework & Archives](#课程作业与纪念--coursework--archives)
-- [Fork 学习资源 / Forked Learning Resources](#fork-学习资源--forked-learning-resources)
+- [机器人与具身智能 / Robotics & Embodied AI](#user-content-机器人与具身智能--robotics--embodied-ai)
+- [AI 与数据科学 / AI & Data Science](#user-content-ai-与数据科学--ai--data-science)
+- [开发工具与 Web / Developer Tools & Web](#user-content-开发工具与-web--developer-tools--web)
+- [量化与数据采集 / Quant & Data Collection](#user-content-量化与数据采集--quant--data-collection)
+- [知识与写作 / Knowledge & Writing](#user-content-知识与写作--knowledge--writing)
+- [课程作业与纪念 / Coursework & Archives](#user-content-课程作业与纪念--coursework--archives)
+- [Fork 学习资源 / Forked Learning Resources](#user-content-fork-学习资源--forked-learning-resources)
 
 ## 机器人与具身智能 / Robotics & Embodied AI
 
